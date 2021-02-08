@@ -1,2 +1,5 @@
-# gen_model
+# Generative model for material property prediction
+
+- Requirements
+Under construction
  
