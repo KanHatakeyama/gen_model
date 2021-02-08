@@ -1,5 +1,16 @@
 # Generative model for material property prediction
 
-## Requirements
-- Under construction
- 
+# About
+- Predict versatile molecular properties using a generative model
+- The model is robust against missing data, which will be imputed by the model.
+- Better performances are obtained with extrapolating predictions than conventional models.
+
+
+## Some codes adopted from...
+- MCFlow imputer
+	- https://github.com/trevor-richardson/MCFlow
+- MissForest
+	- https://github.com/stekhoven/missForest
+- Graph neural net
+	- https://github.com/iwatobipen/playground/blob/master/GCN_chemo.ipynb
+	- https://discuss.dgl.ai/t/cant-run-gcn-chemo-py-an-example-on-github/1280/2
