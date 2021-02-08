@@ -1,9 +1,10 @@
 # Generative model for material property prediction
 
 # About
+- Codes are related to an article: ******.
 - Predict versatile molecular properties using a generative model
 - The model is robust against missing data, which will be imputed by the model.
-- Better performances are obtained with extrapolating predictions than conventional models.
+- Better performances are obtained with extrapolating tasks than conventional models.
 
 
 ## Some codes adopted from...
