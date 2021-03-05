@@ -1,7 +1,8 @@
 # Generative model for material property prediction
 
 # About
-- Codes are related to an article: ******.
+- Codes are related to an article: A Generative Model for Extrapolation Prediction in Materials Informatics
+- https://arxiv.org/abs/2103.00157
 - Predict versatile molecular properties using a generative model
 - The model is robust against missing data, which will be imputed by the model.
 - Better performances are obtained with extrapolating tasks than conventional models.
